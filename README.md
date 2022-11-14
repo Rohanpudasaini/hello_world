@@ -1,2 +1,2 @@
 # hello_world
-repository
+**This is my very first Git page and will be uploading all my findings here. **
